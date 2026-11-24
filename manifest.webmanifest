@@ -1,0 +1,16 @@
+{
+  "name": "입트임 코치",
+  "short_name": "입트임",
+  "description": "영어·일본어 말하기 코치 (Groq·Gemini 무료 AI)",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14202C",
+  "theme_color": "#14202C",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
